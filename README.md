@@ -10,7 +10,7 @@ Computer enthusiast, passionate coder, and security addict. During my youth curi
 * 🖥️  See my portfolio at [JavierCunat.com](http://javiercunat.com)
 * 📫  You can contact me at [javier.cunat001@mymdc.net](mailto:javier.cunat001@mymdc.net)
 * 🚀  I'm currently working on [CryptoKids Service Project](http://cryptokidsfoundation.tech)
-* 🧠  I'm learning React.js Framework and studying SEC275 Course
+* 🧠  I'm learning React.js Framework and studying SEC275 Course (Update I Passed! GFACT Certified :))
 * 👀  I'm open to collaborating on Mentorship, Interesting Projects, and Hackathons
 
 ### Skills
