@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-Computer enthusiast, passionate coder, and security addict. During my youth curiosity fueled me into the dimensions of software and programming where I spend time believing in the power of computing and its future for our world. I've been coding for well over two years now by building entertaining projects and taking classes such as AP Computer Science A and AP Computer Science Principles. Now I am starting college as a CS student and I am focusing on becoming a top software engineer.
+Computer enthusiast and passionate coder. "Beauty in the struggle" -J.Cole
 
 * 🌍  I'm based in Miami, Florida
 * 🖥️  See my portfolio at [JavierCunat.com](http://javiercunat.com)
-* 📫  You can contact me at [javier.cunat001@mymdc.net](mailto:javier.cunat001@mymdc.net)
+* 📫  You can contact me at [javiercunnat[at]gmail[dot]com
 * 🚀  I'm currently working on [CryptoKids Service Project](http://cryptokidsfoundation.tech)
-* 🧠  I'm learning React.js Framework and studying SEC275 Course (Update I Passed! GFACT Certified :))
+* 🧠  I'm learning AI and Neural Networks
 * 👀  I'm open to collaborating on Mentorship, Interesting Projects, and Hackathons
 
 ### Skills
