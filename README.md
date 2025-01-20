@@ -10,7 +10,7 @@ Computer enthusiast and passionate coder. "Beauty in the struggle" -J.Cole
 * 🖥️  See my portfolio at [JavierCunat.com](http://javiercunat.com)
 * 📫  You can contact me at javiercunnat[at]gmail[dot]com
 * 🚀  I'm currently working on [CryptoKids Service Project](http://cryptokidsfoundation.tech)
-* 🧠  I'm learning AI and Neural Networks
+* 🧠  I'm learning about AI and distributed systems
 * 👀  I'm open to collaborating on Mentorship, Interesting Projects, and Hackathons
 
 ### Skills
