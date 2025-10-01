@@ -9,8 +9,8 @@ Computer enthusiast and passionate coder. "Beauty in the struggle" -J.Cole
 * 🌍  I'm based in Miami, Florida
 * 🖥️  See my portfolio at [JavierCunat.com](http://javiercunat.com)
 * 📫  You can contact me at javiercunnat[at]gmail[dot]com or through my [Linkedin](https://linkedin.com/in/javiercunat)
-* 🚀  I'm currently working on [CryptoKids Service Project](http://cryptokidsfoundation.tech)
-* 🧠  I'm learning about computer architecture and distributed systems
+* 🚀  I'm currently working on Proxi - Healthcare startup
+* 🧠  I'm learning about computer architecture, distributed systems, and AI
 * 👀  I'm open to collaborating on Mentorship, Interesting Projects, and Hackathons
 
 ### Skills
