@@ -11,7 +11,7 @@ Computer enthusiast and passionate coder. "Beauty in the struggle" -J.Cole
 * 📫  You can contact me at javiercunnat[at]gmail[dot]com or through my [Linkedin](https://linkedin.com/in/javiercunat)
 * 🚀  I'm currently working on Proxi - Healthcare startup
 * 🧠  I'm learning about computer architecture, distributed systems, and AI
-* 👀  I'm open to collaborating on Mentorship, Interesting Projects, and Hackathons
+* 👀  I'm open to collaborating on Mentorship, Interesting Projects, and Hackathon
 
 ### Skills
 
