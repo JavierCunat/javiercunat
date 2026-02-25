@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 "Beauty in the struggle" -J.Cole
 
-### Skills
+### Tech Stack
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/JavierCunat/javiercunat/blob/main/ISO_C%2B%2B_Logo.svg.png" width="36" height="36" alt="C++" /></a>
@@ -27,11 +27,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/javiercunat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/javiercunat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/javiercunat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/javiercunat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@javiercunat1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/javiercunat"><img src="https://github-readme-stats.vercel.app/api?username=javiercunat&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="javiercunat's GitHub stats" /></a>
-
-<a href="https://github.com/javiercunat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiercunat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
