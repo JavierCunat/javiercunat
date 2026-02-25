@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Javier Cunat
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Javi
 ====================================================================================================================================
-
-"Beauty in the struggle" -J.Cole
 
 * 🌍  I'm based in Palo Alto, California
 * 📫  You can contact me at javiercunnat[at]gmail[dot]com or through my [Linkedin](https://linkedin.com/in/javiercunat)
 * 🚀  I'm currently working on a stealth startup
 * 🧠  I'm learning about computer architecture, distributed systems, and AI
+
+"Beauty in the struggle" -J.Cole
 
 ### Skills
 
